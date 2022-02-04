@@ -1,6 +1,7 @@
 id=Fdroid-Priv
 name=F-Droid Privileged Extension
-version=2021-07-21
-versionCode=19
-author=Ryaniskira
+version=2022-01-04
+versionCode=1
+author=Ryaniskira (fork by fearlessdots)
 description=Installs F-Droid Privileged Extension systemlessly
+updateJson=https://raw.github.com/fearlessdots/Fdroid-Priv/master/update.json
