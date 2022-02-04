@@ -49,7 +49,16 @@ The script will get the new version name from the **`module.prop`** file.
 
 ## Changelog:
 
-**No initial release yet**
+### Version 1.0
+
+Initial release for this fork. What was modified from original Fdroid-Priv module version 2021-07-21:
+- Updated to Privileged Extension 0.2.13
+- Added **`update.json`**
+- Fixed **`module.prop`**
+- Changed **`README.md`**
+- Created a new icon
+- Created **`build.sh`**
+- Added '**`gitignore`**
 
 ## ryaniskira' Repo Changelog:
 
