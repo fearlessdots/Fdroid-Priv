@@ -1,0 +1,6 @@
+- Initial release for this fork
+- Updated to Privileged Extension 0.2.13
+- Added 'update.json'
+- Fixed 'module.prop'
+- Changed 'README.md'
+- Added icons to /assets/icons (does not affect Magisk module)
