@@ -4,7 +4,8 @@ show_info() {
 	echo "[  ModuleBuilder  ] $1"
 }
 
-OUTPUT_FILE='fdroid-privileged-extension-installer.zip'
+VERSION="$2"
+OUTPUT_FILE='fdroid-privileged-extension-installer_$VERSION.zip'
 
 echo " ___    ___         _   _ "
 echo "| __>__| . \_ _ ___<_>_| |"
