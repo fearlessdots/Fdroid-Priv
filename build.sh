@@ -20,7 +20,7 @@ wget -O META-INF/com/google/android/update-binary https://raw.githubusercontent.
 
 echo ""
 
-show_info "Building a release ZIP file"
+show_info "Building a release ZIP file for version $VERSION"
 zip -r $OUTPUT_FILE * -x build.sh -x update.json -x module_icon.png
 
 echo ""
