@@ -135,3 +135,7 @@ If running Android 11+, using [Aurora Droid](https://f-droid.org/en/packages/com
 - Privileged Extension 0.1
 
 - Based directly on PunchyStick's extension
+
+## Credits
+
+- **ryaniskira** for the F-Droid Privileged Extension installer
