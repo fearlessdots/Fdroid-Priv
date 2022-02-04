@@ -1,33 +1,45 @@
 # F-Droid Privileged Extension installer
 
-![Magisk](http://i.imgur.com/WA4LBkF.png)
+![Icon](assets/icons/module_logo.png)
 
 ## About
 
-This is an unofficial installer of the F-Droid Privileged Extension. With the power of Magisk, this is done systemlessly.
+This is an unofficial installer of the F-Droid Privileged Extension forked from ryaniskira's [repository](https://github.com/Magisk-Modules-Repo/Fdroid-Priv). That's a repository mainly for personal use and for testing. With the power of Magisk, this is done systemlessly.
+
+According to the Privileged Extension's [download page](https://f-droid.org/en/packages/org.fdroid.fdroid.privileged/):
+
+> **`org.fdroid.fdroid`** can make use of system privileges or permissions
+to install, update and remove applications on its own. The only way to
+obtain those privileges is to become a system app.
+>
+> This is where the Privileged Extension comes in - being a separate app
+and much smaller, it can be installed as a system app and communicate
+with the main app via AIDL IPC.
+>
+> This has several advantages:
+>
+> - Reduced disk usage in the system partition
+> - System updates don't remove F-Droid
+> - The process of installing into system via root is safer
+
+This module gives the F-Droid Privileged Extension package access to the following permissions (these permissions are found in the */system/etc/permissions/privapp-permissions-org.fdroid.fdroid.privileged.xml* file):
+- **`android.permission.INSTALL_PACKAGES`**
+- **`android.permission.DELETE_PACKAGES`**
+
+These permissions give the F-Droid Privileged Extension only permissions to install and uninstall packages. And in order for the extension to get these privileges, it must be installed as part of the system. The latest version for the package **`org.fdroid.fdroid.privileged`** is located in */system/priv-app/Fdroid*.
 
 Source code for the Fdroid Privileged Extensions can be found in their [official repository](https://gitlab.com/fdroid/privileged-extension).
 
-[XDA](https://forum.xda-developers.com/apps/magisk/module-f-droid-privileged-extension-t3587068#post71796001)
-
 If running Android 11+, using [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) and [Aurora Services](https://github.com/whyorean/AuroraServices) is highly suggested.
-
----
 
 ## Requirements
 
 - Make sure you are running at least F-Droid version 0.103
 - Magisk 24+ required
 
----
-
 ## Changelog:
 
-### 2022-01-04
-
-- Updated to Privileged Extension 0.2.13
-
----
+**No initial release yet**
 
 ## ryaniskira' Repo Changelog:
 
@@ -123,3 +135,7 @@ If running Android 11+, using [Aurora Droid](https://f-droid.org/en/packages/com
 - Privileged Extension 0.1
 
 - Based directly on PunchyStick's extension
+
+## Credits
+
+- **ryaniskira** for the F-Droid Privileged Extension installer
