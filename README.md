@@ -49,6 +49,11 @@ The script will get the new version name from the **`module.prop`** file.
 
 ## Changelog:
 
+### Version 1.0.1
+(This is a minor release)
+- Fixed some errors in **`README.md`**
+- Added a new line to display in **`customize.sh`**
+
 ### Version 1.0.0
 
 Initial release for this fork. What was modified from original Fdroid-Priv module version 2021-07-21:
