@@ -37,6 +37,16 @@ If running Android 11+, using [Aurora Droid](https://f-droid.org/en/packages/com
 - Make sure you are running at least F-Droid version 0.103
 - Magisk 24+ required
 
+## How to build
+
+To build a new release file, run the **`build.sh`** script as follows:
+
+```shell
+./build.sh <version>
+```
+
+Where *version* is the version for this new release (e.g., *v1.0*).
+
 ## Changelog:
 
 **No initial release yet**
