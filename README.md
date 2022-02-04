@@ -2,112 +2,124 @@
 
 ![Magisk](http://i.imgur.com/WA4LBkF.png)
 
+## About
+
 This is an unofficial installer of the F-Droid Privileged Extension. With the power of Magisk, this is done systemlessly.
+
+Source code for the Fdroid Privileged Extensions can be found in their [official repository](https://gitlab.com/fdroid/privileged-extension).
 
 [XDA](https://forum.xda-developers.com/apps/magisk/module-f-droid-privileged-extension-t3587068#post71796001)
 
+If running Android 11+, using [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) and [Aurora Services](https://github.com/whyorean/AuroraServices) is highly suggested.
+
 ---
 
-What to know:
+## Requirements
 
-* Please make sure you're running at least F-Droid 0.103
-* Reqiures Magisk 17+
-* If running Android 11+, I suggest using [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) and [Aurora Services](https://github.com/whyorean/AuroraServices). F-Droid does not seem interested in updating their installer extension, and I will of course update this module when F-Droid updates their extension. 
+- Make sure you are running at least F-Droid version 0.103
+- Magisk 24+ required
+
 ---
 
-### Changelog:
+## Changelog:
 
-(ALWAYS read the changelog please)
+### 2022-01-04
 
-#### 2021-07-21
+- Updated to Privileged Extension 0.2.13
 
->Updated to Privileged Extension 0.2.12
+---
 
-#### 2019-11-28
+## ryaniskira' Repo Changelog:
 
->Updated to Privileged Extension 0.2.11
+### 2021-07-21
 
-#### 2019-03-28
+- Updated to Privileged Extension 0.2.12
 
->Updated to MagiskInstaller template
+### 2019-11-28
 
->Updated to Privileged Extension 0.2.9
+- Updated to Privileged Extension 0.2.11
 
->Tidy up changelog
+### 2019-03-28
 
-#### 2018-09-02
+- Updated to MagiskInstaller template
 
->Updated to Template 1700
+- Updated to Privileged Extension 0.2.9
 
-#### 2018-05-03
+- Tidy up changelog
 
->Updated to Privileged Extension 0.2.8
+### 2018-09-02
 
->Changed changelog format
+- Updated to Template 1700
 
-#### v11
+### 2018-05-03
 
->Template 1500
+- Updated to Privileged Extension 0.2.8
 
->Please update to Magisk 15.0 before updating
+- Changed changelog format
 
-#### v10
+### v11
 
->Updated to Privileged Extension 0.2.7
+- Template 1500
 
->Updated to Template 1410
+- Please update to Magisk 15.0 before updating
 
->Only install this if you are on Magisk 14.1, a zip for Magisk 14.0 can be found [here](https://www.androidfilehost.com/?fid=745849072291676800)
+### v10
 
-#### v9
+- Updated to Privileged Extension 0.2.7
 
->Updated to Privileged Extension 0.2.6
+- Updated to Template 1410
 
-#### v8
+- Only install this if you are on Magisk 14.1, a zip for Magisk 14.0 can be found [here](https://www.androidfilehost.com/?fid=745849072291676800)
 
->Updated to Template 1400
+### v9
 
->Please update to Magisk 14.0 if you have not already
+- Updated to Privileged Extension 0.2.6
 
-#### v7
+### v8
 
->Updated to Update to template 4
+- Updated to Template 1400
 
-#### v6
+- Please update to Magisk 14.0 if you have not already
 
->Updated to Privileged Extension 0.2.5
+### v7
 
->Please update F-Droid to version 0.103 if you have not already.
+- Updated to Update to template 4
 
-#### v5
+### v6
 
->If you installed the zip on the XDA thread, please remove that module before installing this version.
+- Updated to Privileged Extension 0.2.5
 
->Privileged Extension 0.2.4
+- Please update F-Droid to version 0.103 if you have not already.
 
-#### v4
+### v5
 
->First public release
+- If you installed the zip on the XDA thread, please remove that module before installing this version.
 
->Privileged Extension 0.2.3
+- Privileged Extension 0.2.4
 
-#### v3
+### v4
 
->Private release
+- First public release
 
->Privileged Extension 0.2.2
+- Privileged Extension 0.2.3
 
-#### v2
+### v3
 
->Private release
+- Private release
 
->Privileged Extension 0.2
+- Privileged Extension 0.2.2
+
+### v2
+
+- Private release
+
+- Privileged Extension 0.2
 
 
-#### v1
+### v1
 
->Private release
+- Private release
 
->Privileged Extension 0.1
+- Privileged Extension 0.1
 
->Based directly on PunchyStick's extension
+- Based directly on PunchyStick's extension

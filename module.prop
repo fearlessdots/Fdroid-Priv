@@ -1,7 +1,7 @@
-id=Fdroid-Priv
+id=Fdroid-Priv-fearlessdots
 name=F-Droid Privileged Extension
 version=2022-01-04
 versionCode=1
-author=Ryaniskira (fork by fearlessdots)
-description=Installs F-Droid Privileged Extension systemlessly
+author=Ryaniskira
+description=This is a personal fork by fearlessdots. F-Droid Privileged Extension has elevated permissions which allow it to do installs and deletes. It gives only F-Droid access to its install and delete commands. In order for F-Droid Privileged Extension to get these "privileged" powers, it must be installed as part of your system.
 updateJson=https://raw.github.com/fearlessdots/Fdroid-Priv/master/update.json
