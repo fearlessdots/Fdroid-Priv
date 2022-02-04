@@ -128,6 +128,7 @@ print_modname() {
   ui_print "|_|    |___/_| \___/_\___|"
   ui_print "     Magisk installer     "
   ui_print "      By: Ryaniskira      "
+  ui_print "  (fork by fearlessdots)  "
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
