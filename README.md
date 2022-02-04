@@ -45,7 +45,7 @@ To build a new release file, run the **`build.sh`** script as follows:
 ./build.sh
 ```
 
-The script will get the new version name from the **`module.prop` file**.
+The script will get the new version name from the **`module.prop`** file.
 
 ## Changelog:
 
