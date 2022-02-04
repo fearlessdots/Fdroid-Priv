@@ -5,7 +5,7 @@ show_info() {
 }
 
 VERSION=$(cat module.prop | grep version= | sed '/version=/s///')
-OUTPUT_FILE='fdroid-privileged-extension-installer_$VERSION.zip'
+OUTPUT_FILE="fdroid-privileged-extension-installer_$VERSION.zip"
 
 echo " ___    ___         _   _ "
 echo "| __>__| . \_ _ ___<_>_| |"
