@@ -26,7 +26,7 @@ This module gives the F-Droid Privileged Extension package access to the followi
 - **`android.permission.INSTALL_PACKAGES`**
 - **`android.permission.DELETE_PACKAGES`**
 
-These permissions give the F-Droid Privileged Extension only permissions to install and uninstall packages. And in order for the extension to get these privileges, it must be installed as part of the system. The latest version for the package **`org.fdroid.fdroid.privileged`** is located in */system/priv-app/Fdroid*.
+The F-Droid Privileged Extension only will be given permissions to install and uninstall packages. And in order for the extension to get these privileges, it must be installed as part of the system. The latest version for the package **`org.fdroid.fdroid.privileged`** is located in */system/priv-app/Fdroid*.
 
 Source code for the Fdroid Privileged Extensions can be found in their [official repository](https://gitlab.com/fdroid/privileged-extension).
 
@@ -58,7 +58,7 @@ Initial release for this fork. What was modified from original Fdroid-Priv modul
 - Changed **`README.md`**
 - Created a new icon
 - Created **`build.sh`**
-- Added '**`gitignore`**
+- Added **`gitignore`**
 
 ## ryaniskira' Repo Changelog:
 
