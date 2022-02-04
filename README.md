@@ -42,10 +42,10 @@ If running Android 11+, using [Aurora Droid](https://f-droid.org/en/packages/com
 To build a new release file, run the **`build.sh`** script as follows:
 
 ```shell
-./build.sh <version>
+./build.sh
 ```
 
-Where *version* is the version for this new release (e.g., *v1.0*).
+The script will get the new version name from the **`module.prop` file**.
 
 ## Changelog:
 

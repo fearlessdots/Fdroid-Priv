@@ -4,7 +4,7 @@ show_info() {
 	echo "[  ModuleBuilder  ] $1"
 }
 
-VERSION="$2"
+VERSION=$(cat module.prop | grep version= | sed '/version=/s///')
 OUTPUT_FILE='fdroid-privileged-extension-installer_$VERSION.zip'
 
 echo " ___    ___         _   _ "
