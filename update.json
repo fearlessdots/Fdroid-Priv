@@ -1,6 +1,6 @@
 {
 	"version" : "v1.0",
 	"versionCode" : 1,
-	"zipUrl" : "https://github.com/fearlessdots/fdroid-privileged-extension-installer/releases/download/v1.0/Fdroid-Priv_Fork.zip",
+	"zipUrl" : "https://github.com/fearlessdots/fdroid-privileged-extension-installer/releases/download/v1.0/fdroid-privileged-extension-installer_v1.0.zip",
 	"changelog" : "https://raw.githubusercontent.com/fearlessdots/fdroid-privileged-extension-installer/master/CHANGELOG"
 }

@@ -1,5 +1,5 @@
-id=fdroid-privileged-fearlessdots
-name=F-Droid Privileged Extension
+id=fdroid-privileged-extension-installer
+name=F-Droid Privileged Extension Installer
 version=v1.0
 versionCode=1
 author=fearlessdots (original by ryaniskira)
