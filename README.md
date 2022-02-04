@@ -138,4 +138,5 @@ If running Android 11+, using [Aurora Droid](https://f-droid.org/en/packages/com
 
 ## Credits
 
+- **F-Droid** for their work
 - **ryaniskira** for the F-Droid Privileged Extension installer
