@@ -1,6 +1,6 @@
 # F-Droid Privileged Extension installer
 
-![Icon](assets/icons/module_logo.png)
+![Icon](module_icon.png)
 
 ## About
 
