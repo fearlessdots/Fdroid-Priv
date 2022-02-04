@@ -4,4 +4,4 @@ version=v1.0
 versionCode=1
 author=fearlessdots (original by ryaniskira)
 description=F-Droid Privileged Extension has elevated permissions which allow it to do installs and deletes. It gives only F-Droid access to its install and delete commands. In order for F-Droid Privileged Extension to get these "privileged" powers, it must be installed as part of your system. This project was forked from ryaniskira' original project.
-updateJson=https://raw.github.com/fearlessdots/Fdroid-Priv/master/update.json
+updateJson=https://github.com/fearlessdots/fdroid-privileged-extension-installer/master/update.json
