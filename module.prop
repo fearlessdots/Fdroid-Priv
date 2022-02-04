@@ -1,6 +1,6 @@
 id=fdroid-privileged-extension-installer
 name=F-Droid Privileged Extension Installer
-version=v1.0
+version=v1.0.0
 versionCode=1
 author=fearlessdots (original by ryaniskira)
 description= This modules installs the F-Droid Privileged Extension to /system/priv-app and sets the necessary permissions to let this package install and uninstall apps.
