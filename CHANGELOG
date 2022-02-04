@@ -1,8 +1,3 @@
-- Initial release for this fork. What was modified from original Fdroid-Priv module version 2021-07-21:
-- Updated to Privileged Extension 0.2.13
-- Added 'update.json'
-- Fixed 'module.prop'
-- Changed 'README.md'
-- Created a new icon
-- Created 'build.sh'
-- Added '.gitignore'
+(This is a minor release)
+- Fixed some errors in 'README.md'
+- Added a new line to display in 'customize.sh'

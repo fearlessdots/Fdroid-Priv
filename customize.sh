@@ -146,6 +146,7 @@ on_install() {
 
 set_permissions() {
   # The following is the default rule, DO NOT remove
+  ui_print "- Setting permissions"
   set_perm_recursive $MODPATH 0 0 0755 0644
 
   # Here are some examples:
