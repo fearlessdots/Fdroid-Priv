@@ -4,7 +4,7 @@
 
 ## About
 
-This is an unofficial installer of the F-Droid Privileged Extension forked from ryaniskira's [repository](https://github.com/Magisk-Modules-Repo/Fdroid-Priv). This is a repository mainly for personal use and for testing.
+This is an unofficial installer of the F-Droid Privileged Extension forked from ryaniskira's [repository](https://github.com/Magisk-Modules-Repo/Fdroid-Priv). This is a repository mainly for personal use and for testing, but feel free to use it, and to contribute.
 
 According to the Privileged Extension's [download page](https://f-droid.org/en/packages/org.fdroid.fdroid.privileged/):
 
@@ -30,7 +30,15 @@ The F-Droid Privileged Extension package will only be given permissions to insta
 
 Source code for the Fdroid Privileged Extensions can be found in their [official repository](https://gitlab.com/fdroid/privileged-extension).
 
-If running Android 11+, using [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) and [Aurora Services](https://github.com/whyorean/AuroraServices) is highly suggested.
+There are some great alternatives to the official F-Droid app + Privileged Extension, including:
+- [Droid-ify](https://github.com/Iamlooker/Droid-ify)
+- [G-Droid](https://gitlab.com/gdroid/gdroidclient/)
+- [M-Droid](https://github.com/SkyzohKey/M-Droid)
+- [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid) (optionally with [Aurora Services](https://github.com/whyorean/AuroraServices))
+- [Fossdroid](https://fossdroid.com/)
+- [Foxy Droid](https://github.com/kitsunyan/foxy-droid)
+
+> More awesome FOSS apps for Android can be found in this [repository](https://github.com/offa/android-foss).
 
 ## Requirements
 
@@ -49,12 +57,14 @@ The script will get the new version name from the **`module.prop`** file.
 
 ## Changelog:
 
-### Version 1.0.1
-(This is a minor release)
+> According to the Magisk's [developer guide](https://topjohnwu.github.io/Magisk/guides.html#magisk-modules) and the release for Magisk v24.0 available [here](https://github.com/topjohnwu/Magisk/releases/tag/v24.0), the maintenance of the centralized repositories was suspended, and it is not possible to update modules from these repos directly from the app since this feature's removal in Magisk v24.0. As an alternative, module developers need to create and maintain an updateJson URL in ther modules that will be used by Magisk app to check, download, and intall module updates. Since this repository includes an **`update.json`** file, you can update the module directly from the app, instead of downloading the ZIP files in this repository.
+
+
+### Version 1.0.1 (minor release)
 - Fixed some errors in **`README.md`**
 - Added a new line to display in **`customize.sh`**
 
-### Version 1.0.0
+### Version 1.0.0 (initial release)
 
 Initial release for this fork. What was modified from original Fdroid-Priv module version 2021-07-21:
 - Updated to Privileged Extension 0.2.13
