@@ -1,4 +1,4 @@
-# F-Droid Privileged Extension installer
+# F-Droid Privileged Extension Installer
 
 ![Icon](module_icon.png)
 
