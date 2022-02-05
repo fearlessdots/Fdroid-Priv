@@ -172,5 +172,6 @@ Initial release for this fork. What was modified from original Fdroid-Priv modul
 
 ## Credits
 
-- **F-Droid** for their work
-- **ryaniskira** for the F-Droid Privileged Extension installer
+- **John Wu (@topjohnwu)** for making it possible
+- **F-Droid** for their great work
+- **Ryaniskira (@RyanHakurei)** for the F-Droid Privileged Extension installer (Fdroid-Priv)
