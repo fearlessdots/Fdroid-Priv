@@ -2,6 +2,8 @@
 
 ![Icon](module_icon.png)
 
+**Current F-Droid Privileged Extension version in this module** : 0.2.13
+
 ## About
 
 This is an unofficial installer of the F-Droid Privileged Extension forked from ryaniskira's [repository](https://github.com/Magisk-Modules-Repo/Fdroid-Priv). This is a repository mainly for personal use and for testing, but feel free to use it, and to contribute.
