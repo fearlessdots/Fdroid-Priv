@@ -6,7 +6,7 @@
 
 ## About
 
-This is an unofficial installer of the F-Droid Privileged Extension forked from ryaniskira's [repository](https://github.com/Magisk-Modules-Repo/Fdroid-Priv). This is a repository mainly for personal use and for testing, but feel free to use it, and to contribute.
+This is an unofficial installer of the F-Droid Privileged Extension forked from ryaniskira's [repository](https://github.com/Magisk-Modules-Repo/Fdroid-Priv). This is a repository mainly for personal use and testing, but feel free to use it, and to contribute.
 
 According to the Privileged Extension's [download page](https://f-droid.org/en/packages/org.fdroid.fdroid.privileged/):
 
