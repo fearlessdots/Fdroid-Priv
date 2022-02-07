@@ -57,7 +57,7 @@ To build a new release file, run the **`build.sh`** script as follows:
 
 The script will get the new version name from the **`module.prop`** file.
 
-## Changelog:
+## Changelog (for this repository only):
 
 > According to the Magisk's [developer guide](https://topjohnwu.github.io/Magisk/guides.html#magisk-modules) and the release for Magisk v24.0 available [here](https://github.com/topjohnwu/Magisk/releases/tag/v24.0), the maintenance of the centralized repositories was suspended, and it is not possible to update modules from these repos directly from the app since this feature's removal in Magisk v24.0. As an alternative, module developers need to create and maintain an updateJson URL in ther modules that will be used by Magisk app to check, download, and intall module updates. Since this repository includes an **`update.json`** file, you can update the module directly from the app, instead of downloading the ZIP files in this repository.
 
