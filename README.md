@@ -1,5 +1,7 @@
 # F-Droid Privileged Extension Installer
 
+> The versioning of this module differs from that of the original one.
+
 ![Icon](module_icon.png)
 
 **Current F-Droid Privileged Extension version in this module** : 0.2.13
